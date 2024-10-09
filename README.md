@@ -1,4 +1,4 @@
-# FER-CNN-Model
+# Custom CNN Model for FER2013
 
 A deep learning model for classifying facial expressions in the FER2013 dataset using a custom Convolutional Neural Network (CNN) architecture. The model leverages various techniques to manage overfitting and optimize performance, achieving an accuracy of 61%.
 
@@ -62,8 +62,7 @@ Training loss, validation loss, and confusion matrix visualizations demonstrate 
 
 
 
-## Model Architecture Diagram
-*Insert an image of your model architecture here.*
+## Model Summary
 
 ## Future Improvements
 - Experiment with more advanced data augmentation techniques.
