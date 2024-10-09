@@ -16,8 +16,8 @@ The **FER2013** dataset is a widely used benchmark for facial expression recogni
 ### Dataset Challenges
 The FER2013 dataset presents challenges such as limited and imbalanced samples per class. This imbalance, along with inherent noise, can lead to overfitting, making it challenging to achieve high generalization and accuracy.
 
-## Model Architecture
-This custom CNN architecture includes several layers and techniques to optimize performance while controlling overfitting. Key features include:
+## Techniques for Reducing Overfitting 
+This CNN model incorporates several techniques to enhance performance while managing overfitting:
 
 - **Batch Normalization**: Stabilizes learning and accelerates convergence.
 - **Dropout**: Helps prevent overfitting by randomly dropping neurons during training.
