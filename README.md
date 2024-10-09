@@ -46,7 +46,7 @@ Training loss, validation loss, and confusion matrix visualizations demonstrate 
 ![Loss Curve](img/lc.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/cm.png)
+![Confusion Matrix](img/cm.png)
 
 ## Installation and Usage
 
