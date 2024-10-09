@@ -78,4 +78,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Copy this text into your `README.md` file for a well-structured repository. Let me know if you need further adjustments!
