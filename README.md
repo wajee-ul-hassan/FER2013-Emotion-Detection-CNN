@@ -43,10 +43,10 @@ The model's performance is evaluated using the following metrics:
 Training loss, validation loss, and confusion matrix visualizations demonstrate the model’s learning progress and class-wise performance.
 
 ### Loss Curve
-*Brief description of the loss curve here.*
+![Loss Curve](img/lc.png)
 
 ### Confusion Matrix
-*Insights from the confusion matrix here.*
+![Confusion Matrix](images/cm.png)
 
 ## Installation and Usage
 
